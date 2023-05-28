@@ -1,5 +1,5 @@
 # Mapa de interesados por materia de seguridad en barrio las lilas
-![Preview](mapa_las_lilas.jpg)
+<img src="mapa_las_lilas.jpeg" width="100" height="100">
 
 ## Links
 - Leaflet Map https://dataludus.github.io/mapa_seguridad_las_lilas/
